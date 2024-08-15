@@ -1,7 +1,8 @@
 :root {
     font-family: "Poppins", sans-serif;
     --clr-white: #fff;
+    --clr-black: #000000;
     --clr-primary: #E4FDE1;
-    --clr-header: #447604;
-    --clr-box: #FDC149;
+    --clr-header: #fec550;
+    --clr-box: #F3EAF4;
 }

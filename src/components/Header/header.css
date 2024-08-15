@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     background-color:var(--clr-header);
-    color: var(--clr-white);
+    color: var(--clr-black);
     padding: 0rem 1rem;
     gap: 10px;
 }

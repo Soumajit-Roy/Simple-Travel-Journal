@@ -1,7 +1,19 @@
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
-#root, body{
-    margin: 0;
+#root,
+body {
+  margin: 0;
+  background-color: var(--clr-primary);
+  background-image: url(https://images.unsplash.com/photo-1473163928189-364b2c4e1135?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+
+.card-body {
+  display: grid;
+  justify-items: center;
+  padding: 2rem 0.5rem;
+  gap: 1rem;
 }

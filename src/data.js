@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Goa Beaches",
-    location: "Goa, India",
+    location: "GOA, INDIA",
     googleMapsUrl: "https://maps.app.goo.gl/GoaBeaches",
     startDate: "01 Sep, 2024",
     endDate: "10 Sep, 2024",
@@ -14,7 +14,7 @@ export default [
   {
     id: 2,
     title: "Jaipur",
-    location: "Rajasthan, India",
+    location: "RAJASTHAN, INDIA",
     googleMapsUrl: "https://maps.app.goo.gl/Jaipur",
     startDate: "15 Sep, 2024",
     endDate: "25 Sep, 2024",
@@ -26,7 +26,7 @@ export default [
   {
     id: 3,
     title: "Kerala Backwaters",
-    location: "Kerala, India",
+    location: "KERALA, INDIA",
     googleMapsUrl: "https://maps.app.goo.gl/KeralaBackwaters",
     startDate: "01 Oct, 2024",
     endDate: "10 Oct, 2024",
@@ -38,7 +38,7 @@ export default [
   {
     id: 4,
     title: "Rann of Kutch",
-    location: "Gujarat, India",
+    location: "GUJARAT, INDIA",
     googleMapsUrl: "https://maps.app.goo.gl/RannOfKutch",
     startDate: "20 Oct, 2024",
     endDate: "30 Oct, 2024",
@@ -50,7 +50,7 @@ export default [
   {
     id: 5,
     title: "Andaman Islands",
-    location: "Andaman and Nicobar Islands, India",
+    location: "ANDAMAN & NICOBAR ISLANDS, INDIA",
     googleMapsUrl: "https://maps.app.goo.gl/AndamanIslands",
     startDate: "05 Nov, 2024",
     endDate: "15 Nov, 2024",

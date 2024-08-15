@@ -15,7 +15,9 @@ export default function App(){
   return(
     <>
     <Header />
+    <div className='card-body'>
     {card}
+    </div>
     </>
   )
 }
